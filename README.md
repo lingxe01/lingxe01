@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lingxe01
+- 👋 Hi, I’m @lingxe01,a postgraduate student
 - 👀 I’m interested in multimodal fusion(lidar and camera)
 - 🌱 I’m currently learning CV,lidar,deep learning
 - 💞️ I’m looking to collaborate on ...
