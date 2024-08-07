@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lingxe01,a postgraduate student
 - 👀 I’m interested in multimodal fusion(lidar and camera)
-- 🌱 I’m currently learning CV,lidar,deep learning
+- 🌱 I’m currently learning CV,C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 1014431405@qq.com
 - 😄 Pronouns: ...
